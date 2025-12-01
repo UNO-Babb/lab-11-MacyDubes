@@ -1,0 +1,8 @@
+In the code, I changed the number of checkers to 2 for an average of the average wait time 
+being about 3.8 minutes and only an idle time of 174 minutes which is the lowest I could get
+it before the wait times got too large. I also randomized the time it takes a new customer to 
+come in to be a random number of minutes from 1 to 5. I also added a way to process how many
+total customers came by during the simulation and print it. The last thing I did was change the 
+number of items people get to a random number between 5 and 50. This helps maintain a bit more
+realism for the simulation. I learned how to consider and manipulate many variables on code and
+make them all come together in the end to process and display the data.
